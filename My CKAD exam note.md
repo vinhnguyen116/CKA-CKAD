@@ -1,6 +1,6 @@
 ##MY CKAD EXAM 16052020 notes
 
-#Network policy question:
+# 1. Network policy question:
 This question has setup for you pod and network policy. You only need to view policy apply on which labels and then label the pod
 For example:
 There are some policy:
@@ -19,7 +19,7 @@ db
 
 Question: do not change any thing in network policy and do your pod can access proxy and db only
 => set labels db=true and proxy=true for your pod
-#2. LivenessProbe and ReadinessProbe
+# 2. LivenessProbe and ReadinessProbe
 The question ask to add check: liveness and readiness. However, they will ask check liveness and readiness with each /path
 
 example:
