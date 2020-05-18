@@ -4,22 +4,22 @@
 
 I have did below list:
 
-  0. Docker: [here](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=2001s)
-  2. CKA course of Mumshad Mannambeth on Udemy or Kodekloud
-  3. practice lab 2-3 times 
-  4. practice install kubernetes the hard way of kelseyhightower for 1-2 times: [here](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+      0. Docker: [here](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=2001s)
+      2. CKA course of Mumshad Mannambeth on Udemy or Kodekloud
+      3. practice lab 2-3 times 
+      4. practice install kubernetes the hard way of kelseyhightower for 1-2 times: [here](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ## CKAD
 
 I have did below lists:
 
-   - 0. at this time i have pass CKA and have knowledge familiar command to create pod/deployment/services...
-   - 1. practice 3 times: CKAD-exercises.git from dgkanatsios
-   - 2. pratice 2 times: [this article](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552) from Bhargav Bachina
-   - 3. pratice 2 time network policies: [this repo](https://github.com/ahmetb/kubernetes-network-policy-recipes.git)
-          tips: You can use network policy lab of CKA to test do practices 
-   - 4. Pratice 1 time from some labo of CKA lab: mock1,2,3, lightning lab, network policies...
- 
+       -  At this time i have pass CKA and have knowledge familiar command to create pod/deployment/services...
+       -  Practice 3 times: CKAD-exercises.git from dgkanatsios
+       -  Pratice 2 times: [this article](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552) from Bhargav Bachina
+       -  Pratice 2 time network policies: [this repo](https://github.com/ahmetb/kubernetes-network-policy-recipes.git)
+              tips: You can use network policy lab of CKA to test do practices 
+       - Pratice 1 time from some labo of CKA lab: mock1,2,3, lightning lab, network policies...
+     
  My tips: Practice more you will get more confident.
  
  
