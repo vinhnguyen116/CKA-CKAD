@@ -33,5 +33,6 @@ I have did below list:
 - [here](https://medium.com/chotot-techblog/tips-tricks-to-pass-certified-kubernetes-application-developer-ckad-exam-67c9e1b32e6e) from Anh Dang
 
 ### My Certs
-[![CKA](https://github.com/vinhnguyen116/CKA-CKAD/blob/master/CKA.png)]
-[![CKA](https://github.com/vinhnguyen116/CKA-CKAD/blob/master/CKAD.png)]
+![CKA](https://github.com/vinhnguyen116/CKA-CKAD/blob/master/CKA.png)
+
+![CKA](https://github.com/vinhnguyen116/CKA-CKAD/blob/master/CKAD.png)
