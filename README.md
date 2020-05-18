@@ -9,7 +9,7 @@ I have did below list:
    - Practice lab 2-3 times 
    - Practice install kubernetes the hard way of kelseyhightower for 1-2 times: [here](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
- _Practice more you get more confident._
+ _Practice more to get more confident._
 
 ## CKAD
 
@@ -22,7 +22,7 @@ I have did below lists:
           tips: You can use network policy lab of CKA to test do practices 
    - Pratice 1 time from some labo of CKA lab: mock1,2,3, lightning lab, network policies...
  
- _Practice more you get more confident._
+ _Practice more to get more confident._
  
 ### References
 - [here](https://github.com/dgkanatsios/CKAD-exercises.git) from dgkanatsios
