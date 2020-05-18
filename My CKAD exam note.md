@@ -46,7 +46,7 @@ this question easy
 
 this question need to practice:
     
-    - How to mount an emty volume
+    - How to mount an empty volume
     - how to create pv
     - how to create pvc
     - present volume from pvc
