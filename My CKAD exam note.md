@@ -1,4 +1,4 @@
-##MY CKAD EXAM 16052020 notes
+## MY CKAD EXAM 16052020 notes
 
 # 1. Network policy question:
 This question has setup for you pod and network policy. You only need to view policy apply on which labels and then label the pod
