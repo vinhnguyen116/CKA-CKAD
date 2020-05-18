@@ -1,29 +1,31 @@
 # CKA-CKAD
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises)](https://github.com/dgkanatsios/gaforgithub)
 
-# CKAD Exercises
+## CKA
 
-A set of exercises that helped me prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam, offered by the Cloud Native Computing Foundation, organized by curriculum domain. They may as well serve as learning and practicing with Kubernetes.
+I have did below list:
 
-During the exam, you are allowed to keep only one other browser tab open to refer official documentation. Make a mental note of the breadcrumb at the start of the excercise section, to quickly locate the relevant document in kubernetes.io. It is recommended that you read official documents before attempting exercises below it.
+  0. Docker: [here](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=2001s)
+  2. CKA course of Mumshad Mannambeth on Udemy or Kodekloud
+  3. practice lab 2-3 times 
+  4. practice install kubernetes the hard way of kelseyhightower for 1-2 times: [here](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
-## Contents
+## CKAD
 
-- [Core Concepts - 13%](a.core_concepts.md)
-- [Multi-container pods - 10%](b.multi_container_pods.md)
-- [Pod design - 20%](c.pod_design.md)
-- [Configuration - 18%](d.configuration.md)
-- [Observability - 18%](e.observability.md)
-- [Services and networking - 13%](f.services.md)
-- [State persistence - 8%](g.state.md)
+I have did below lists:
 
-### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
-
-Absolutely! Feel free to PR and edit/add questions and solutions, but please stick to the existing format.
-
+   - 0. at this time i have pass CKA and have knowledge familiar command to create pod/deployment/services...
+   - 1. practice 3 times: CKAD-exercises.git from dgkanatsios
+   - 2. pratice 2 times: [this article](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552) from Bhargav Bachina
+   - 3. pratice 2 time network policies: [this repo](https://github.com/ahmetb/kubernetes-network-policy-recipes.git)
+          tips: You can use network policy lab of CKA to test do practices 
+   - 4. Pratice 1 time from some labo of CKA lab: mock1,2,3, lightning lab, network policies...
+ 
+ My tips: Practice more you will get more confident.
+ 
+ 
 ### References
+- [here](https://github.com/dgkanatsios/CKAD-exercises.git) from dgkanatsios
+- [here](https://github.com/ahmetb/kubernetes-network-policy-recipes.git) from ahmetb
 - [here](https://github.com/twajr/ckad-prep-notes) from twajr
 - [here](https://www.reddit.com/r/kubernetes/comments/9uydc1/passed_the_ckad_special_thanks_to_the_linux/) from Blockchain0
 - [here](https://medium.com/devopslinks/my-story-towards-cka-ckad-and-some-tips-daf495e711a9) from abdennour

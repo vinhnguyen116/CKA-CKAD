@@ -73,3 +73,10 @@ this question need to practice:
     - request cpu/memory
     - limit cpu/memory
     - top cpu consumtion and write to file
+    
+# 8. troubleshooting
+     
+    - deployment failed by container not load correct image
+    - get log of failed pod and write to file
+    - get event of failed  pod and write to file
+    
