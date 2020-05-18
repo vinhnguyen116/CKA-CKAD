@@ -13,7 +13,7 @@ I have did below list:
 
 ## CKAD
 
-I have did below lists:
+I have did below list:
 
    -  At this time i have pass CKA and have knowledge familiar command to create pod/deployment/services...
    -  Practice 3 times: CKAD-exercises.git from dgkanatsios
