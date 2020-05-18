@@ -30,7 +30,7 @@ check readiness with path /health
 
 => need to understand clearly the question which one apply for readiness and which one apply for liveness
 
-#3. Configmap and secret
+# 3. Configmap and secret
 
 this question easy
 
