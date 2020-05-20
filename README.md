@@ -19,7 +19,8 @@ I have did below list:
    -  Practice 1-2 times: CKAD-exercises.git from dgkanatsios
    -  Practice 2 times: [this article](https://medium.com/bb-tutorials-and-thoughts/practice-enough-with-these-questions-for-the-ckad-exam-2f42d1228552) from Bhargav Bachina
    -  Practice 2 time network policies: [this repo](https://github.com/ahmetb/kubernetes-network-policy-recipes.git)
-          tips: You can use network policy lab of CKA to test do practices 
+         
+          tips: You can use network policy lab of CKA to do practices 
    - Practice 1 time from some labo of CKA lab: mock1,2,3, lightning lab, network policies...
  
  _Practice more to get more confident._
