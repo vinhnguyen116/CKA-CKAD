@@ -2,7 +2,7 @@
 
 ## CKA
 
-I have did below list:
+I have done below list:
 
    - Docker: [here](https://www.youtube.com/watch?v=zJ6WbK9zFpI&t=2001s)
    - CKA course of Mumshad Mannambeth on Udemy or Kodekloud: [here](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview)
@@ -13,7 +13,7 @@ I have did below list:
 
 ## CKAD
 
-I have did below list:
+I have done below list:
 
    -  At this time i have pass CKA and have knowledge familiar command to create pod/deployment/services...
    -  Practice 1-2 times: CKAD-exercises.git from dgkanatsios
